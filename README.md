@@ -1,3 +1,4 @@
 # CPSC 481 23F Final
-Author: Matthew Nguyen
-CWID: 872515754
+Author | CWID
+--- | ---
+Matthew Nguyen | 872515754
